@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning The Art of War
 - 💞️ I’m looking to collaborate on README.md
 - 📫 How to reach me: Pigeon Mail
-- 😄 Pronouns: Any
+- 😄 Pronouns: Co/De
 - ⚡ Fun fact: I am Johnathan Code, the creator of Code.
 
 <!---
